@@ -1,0 +1,17 @@
+ral-background-color-default:var(
+--spectrum-global-color-static-gray-700
+);--spectrum-semantic-neutral-background-color-hover:var(
+--spectrum-global-color-static-gray-800
+);--spectrum-semantic-neutral-background-color-down:var(
+--spectrum-global-color-static-gray-900
+);--spectrum-semantic-neutral-background-color-key-focus:var(
+--spectrum-global-color-static-gray-800
+);--spectrum-semantic-presence-color-1:var(
+--spectrum-global-color-static-red-500
+);--spectrum-semantic-presence-color-2:var(
+--spectrum-global-color-static-orange-400
+);--spectrum-semantic-presence-color-3:var(
+--spectrum-global-color-static-yellow-400
+);--spectrum-semantic-presence-color-4:#4bcca2;--spectrum-semantic-presence-color-5:#00c7ff;--spectrum-semantic-presence-color-6:#008cb8;--spectrum-semantic-presence-color-7:#7e4bf3;--spectrum-semantic-presence-color-8:var(
+--spectrum-global-color-static-fuchsia-600
+);--spectrum-global-dimension-static-percent-50:50%;--spectrum-global-dimension-static-percent-70:70%;--spectrum-global-dimension-static-percent-100:100%;--spectrum-global-dimension-static-breakpoint-xsmall:304px;--spectrum-global-dimension-static-breakpoint-small:768px;--spectrum-global-dimension-static-breakpoint-medium:1280px;--spectrum-global-dimension-static-breakpoint-large:1768px;--spectrum-global-dimension-static-breakpoint-xlarge:2160px;--spectrum-global-dimension-static-grid-columns:12;--spectrum-global-dimension-static-grid-fluid-width:100%;--spectrum-global-dimension-static-grid-fixed-max-width:1280px;--spectrum-global-dimension-static-size-0:0px;--spectrum-global-dimension-static-size-10:1px;--spectrum-global-dimension-static-size-25:2px;--spectrum-global-dimension-static-size-40:3px;--spectrum-global-dimension-static-size-50:4px;--spectrum-global-dimension-static-size-65:5px;--spectrum-global-dimension-static-size-75:6px;--spectrum-global-dimension-static-size-85:7px;--spectrum-global-dimension-static-size-100:8px;--spectrum-global-dimension-static-size-115:9px;--spectrum-global-dimension-static-size-125:10px;--spectrum-global-dimension-static-size-130:11px;--spectrum-global-dimension-static-size-150:12px;--spectrum-global-dimension-static-size-160:13px;--spectrum

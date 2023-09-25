@@ -1,0 +1,50 @@
+lijk beperkt tot het gebruik van de CDM Microsoft PlayReady of de CDM Widevine.
+        Site worden toegevoegd aan deze lijst in gevallen waarin Microsoft bepaalt dat de
+        weergave van media voor gebruikers hiermee verbetert.Voor sites in deze lijst wordt Microsoft Edge gebruikt met Internet Explorer-modus om
+        automatisch te openen in Internet Explorer 11. In Internet Explorer 11
+        worden de sites weergegeven met een aangepaste browserconfiguratie, waarbij
+        IE5, IE7 en de documentmodi van IE8-IE11 worden geëmuleerd voor het voorkomen van de
+        meest voorkomende compatibiliteitsproblemen die samenhangen met web-apps die zijn geschreven en
+        getest zijn in een oudere versie van Internet Explorer. Als u van mening bent dat een site
+        van de lijst moet worden verwijderd, neem dan contact op met uw
+        systeembeheerder.Sites op deze lijst worden opgegeven met een overschreven tekenreeks van de
+        gebruikersagent wanneer ze worden bezocht in Microsoft Edge. Deze lijst wordt
+        bijgewerkt om compatibiliteitsproblemen op te lossen die voortvloeien uit het
+        feit dat Microsoft Edge een unieke token in de tekenreeks van de
+        gebruikersagent gebruikt om het te onderscheiden van andere webbrowsers.WidevinePlayReadyEnterprise Mode Site List is bijgewerktVersienummerWe raden u aan https:// voor een locatie op een sitelijst op te geven, omdat het veiliger is dan andere opties, zoals file:// en http://Update forcerenFout: kan gegenereerde EMIE-sitelijst niet opslaan.Fout: kan EMIE SiteList niet downloaden.De aanvraag is geannuleerd.De aanvraag is mislukt met de status: $1.Ophalen toegangstoken mislukt omdat er geen primair account beschikbaar is.Kan geen toegangstoken verkrijgen. Ga naar $1 voor meer informatie.Onbekende fout in aanvraag.Fout: kan EMIE SiteList niet parseren.Fout: er is geen URL of een ongeldige URL voor EMIE SiteList.Sites in de lijst van Microsoft-sites weergevenSites op de lijst met gebruikerssites weergevenLijsttypeEngineOmleidingen toestaanOndernemingMicrosoftNEUTRAALEDGEIE11IE11APPCONFIGUREERBAARWaarOnwaarLijst met consumentensitesSitelijst voor ondernemingenSubpadovereenkomstSubpad uitsluitenSubdomeinen komen overeenSubdomein uitsluitenDeze lijst bevat momenteel geen gegevens.$1 zoekresultaat gevonden.$1 zoekresultaten gevonden.Compatibiliteitslijsten van Microsoft EdgeDiagnostische gegevens voor Internet Explorer-modusDe informatie op deze pagina wordt gebruikt om ervoor te zorgen dat de Internet Explorer-modus goed werkt. Als u problemen ondervindt met sites in de Internet
+        Explorer-modus, geeft u deze informatie door aan uw systeembeheerder of de ondersteuningshelpdesk.Exporteer diagnostische gegevensExporteer diagnostische gegevens naar een xml-bestandAPI-versie van Internet Explorer-modusDit is de versie van de Internet Explorer-API-modus, die niet overeenkomt met de document modus van Internet Explorer.Microsoft Edge-versieWindows-versieieframe. dll-versieOpdrachtregelInternet Explorer inschakelen in Windows-onderdelenNiet geconfigureerdNiet ondersteundPoging om Internet Explorer-modus te startenNiet gestartMislukt (Internet Explorer is niet ingeschakeld in Windows-onderdelen)Mislukt (de instelling voor de Internet Explorer-modus is niet ingeschakeld in Microsoft Edge)Mislukt (Internet Explorer-modus is niet ingesteld, klik op 'herstellen')Mislukt (Kan het Internet Explorer-proces niet maken. Foutcode: $1)Mislukt (Internet Explorer-modusadapter is niet gevonden. Foutcode: $1)Mislukt (Internet Explorer-moduspijp is niet gevonden. Foutcode: $1)Mislukt (versie van Internet Explorer-API-modus is 0. Foutcode: $1)Mislukt (Internet Explorer-modus PATH_CCH_CANONICALIZE is mislukt. Foutcode: $1)Mislukt (Microsoft handtekeningcontrole is mislukt. Foutcode: $1)Mislukt (Internet Explorer-modusadapter bevindt zich niet op vertrouwde locatie. Foutcode: $1)Mislukt (kan het procesadres van Internet Explorer niet ophalen. Foutcode: $1)Mislukt (Internet Explorer-modus LOAD_LIBRARY is mislukt. Foutcode: $1)Mislukt (initialisatie van Internet Explorer-modus is mislukt. Foutcode: $1)Mislukt (Internet Explorer-modus SET_APP_USER_MODEL_ID is mislukt. Foutcode: $1)Mislukt (ondertekenen van dubbele engineadapter is niet gekoppeld aan Microsoft Root. Foutcode: $1)Mislukt (ondertekening van Dual Engine-adapter is niet geverifieerd door Microsoft Edge. Foutmelding: $1)Mislukt (Microsoft Edge ondervond fouten bij het starten van de Internet Explorer-modus)GeslaagdInternet Explorer-modus opnieuw startenInstellingen voor groepsbeleidLijst met websites voor Ondernemingsmodus IE gebruiken (IE-beleid)Enterprise Mode Site List configureren (Edge-beleid)Registersleutel voor foutopsporing van sitelijstCloudsitelijst voor ondernemingsmodus configurerenRegistersleutel voor foutopsporing in cloudsitelijstAlle intranetsites doorsturen naar Internet ExplorerDoel opslaan als beleidInPrivate-navigatie uitschakelenIngestelde modus Internet ExplorerBeleid Internet Explorer-integratieVlag Internet Explorer-integratieIntegratieniveau met Internet ExplorerDemomodusInternet Explorer-modusInternet Explorer vereistControle van registersleutelProbleem oplossenInternet Explorer-modus moet worden ingesteld voor Microsoft Edge.Windows UpdateMicrosoft Edge moet Windows bijwerken om de modus Internet Explorer te gebruiken.$1 (voorspeld)Registry Fixer in Internet Explorer-modusAdapterversie van Internet Explorer-modusHet bestand is niet gevondenEffectieve bron voor sitelijstEffectieve URL voor sitelijstEen gedeelde cookie toevoegenLijst wissenWeet u zeker dat u de hele lijst wilt wissen?Omleiden toestaanOpmerkingCookienaamCompatibiliteitsmodusAlleen hostType samenvoegingOpenen inBronengineIE11-appConfigureerbaarStandaardmodusIE10-documentmodusIE11-documentmodusIE5-documentmodusIE7-documentmodusIE7-ondernemingsmodusIE8-documentmodusIE8-ondernemingsmodusIE9-documentmodusURL van site kopiërenSite verwijderenGedeelde cookie verwijderenWeet u zeker dat u de gedeelde cookie wilt verwijderen?Hier kunt u de Enterprise Mode Site List maken, bijwerken en exporteren. U kunt afzonderlijke sites configureren om te openen in de Internet Explorer-modus of in IE 11. U kunt ook opgeven of de site wordt weergegeven in de ondernemingsmodus of de standaardmodus. $1Maak hier de Enterprise Mode Site List, werk deze bij en exporteer deze. Voeg websites toe aan uw lijst en geef op of ze in Microsoft Edge-, Internet Explorer 11- of Internet Explorer-modus in Microsoft Edge worden geopend. U kunt ook cookies voor gedeelde sessies toevoegen, zodat gebruikers aangemeld kunnen blijven bij websites en apps als ze schakelen tussen Microsoft Edge- en Internet Explorer-modus. $1Meer informatie over sitelijstbeheerDit domein is gedupliceerdDeze gedeelde cookie is gedupliceerdDeze URL is gedupliceerdEr zijn een of meer dubbele URL's gedetecteerd. Deze worden hieronder weergegeven. Klik op Toevoegen om door te gaan zonder deze duplicaten toe te voegen, of klik op Annuleren om deze bewerking te annuleren.Cookie bewerkenExporteren naar XMLBestandsnaam (.xml, .emie, .emie2, etc.):Bestand $1 geselecteerdEen punt (.) is niet geldig voor een host.Importeren van XMLU moet waarschijnlijk IndexedDB/cookies inschakelen als u het hulpprogramma correct wilt gebruiken.Geen samenvoegingEr zijn $1 dubbele domeinen
+        gedetecteerd. Klik op Toevoegen om door te gaan zonder deze duplicaten toe te voegen of
+        Annuleren om deze bewerking te annuleren. U kunt ook
+        de gedeelde cookies $2 of
+        $3 in een nieuw browser
+        -tabblad om hier later naar te verwijzen.Er zijn dubbele URL's en/of domeinen gedetecteerd.
+        Klik op 'Toevoegen' om door te gaan zonder deze duplicaten toe te voegen of
+        'Annuleren' om deze bewerking te annuleren. U kunt ze ook
+        $1 of
+        $2 in een nieuw browsertabblad om er later naar te verwijzen.Er zijn $1 dubbele URL's 
+        gedetecteerd. Klik op Toevoegen om door te gaan zonder deze duplicaten toe te voegen of
+        Annuleren om deze bewerking te annuleren. U kunt ook
+        de sites $2 of
+        $3 in een nieuwe browser
+-tabblad om hier later naar te verwijzen.$1 ongeldige gedeelde
+        cookies konden niet worden gevalideerd, omdat de domeinen niet konden worden omgezet. U kunt
+        de gedeelde
+        cookies $2 of
+        $3 in een nieuw browser
+        -tabblad om hier later naar te verwijzen. Intranetsites kunnen niet worden
+        gevalideerd en u moet deze fouten negeren.$1 ongeldige sites zijn niet
+        gevalideerd omdat de URL's niet konden worden omgezet. U kunt de sites
+        $2 of
+        $3 in een nieuw
+        browsertabblad om er later naar te verwijzen. Intranetsites slagen niet voor
+        validatie en u kunt deze fouten negeren.Ongeldige sites en gedeelde cookies konden niet worden gevalideerd, omdat
+        de URL's en domeinen niet konden worden omgezet. U kunt
+        deze $1 of
+        $2 in een nieuw browser
+        -tabblad om hier later naar te verwijzen. Intranetsites kunnen niet worden
+        gevalideerd en u moet deze fouten negeren.$1 sites toegevoegd$1 gedeelde cookies toegevoegdGeen sitevermeldingenGeen vermeldingen voor gedeelde cookiesEr zijn geen ongeldige sites gevondenEr zijn geen ongeldige gedeelde cookies gevondenEr zijn geen ongeldige sites of gedeelde cookies gevondenEr zijn geen sites toegevoegdEr zijn geen gedeelde cookies toegevoegdEr is één dubbel domein gedetecteerd. Klik op 'Toevoegen' om door te gaan zonder
+        dit duplicaat toe te voegen of op 'Annuleren' om deze bewerking te annuleren. U kunt de site ook
+        $1
+         of $2 in een
+        nieuw browsertabblad om er later naar te verwijzen.Er is één dubbele URL gedetecteerd. Klik op Toevoegen om door te gaan zonder
+        deze duplicaten toe te voegen of Annuleren om deze bewerking te an

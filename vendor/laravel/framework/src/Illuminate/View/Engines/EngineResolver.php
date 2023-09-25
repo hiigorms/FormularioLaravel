@@ -1,0 +1,7 @@
+ webalkalmazásokkal kapcsolatban gyakran fellépő kompatibilitási
+        hibákat. Ha úgy érzi, hogy egy webhelyet el kellene távolítani a listáról,
+        forduljon a rendszergazdához.A listán szereplő webhelyek felülbírált böngészőazonosító sztringet kapnak,
+        amikor felkeresik őket a Microsoft Edge-ben. A listát azon kompatibilitási
+        problémák miatt frissítjük, amelyek abból erednek, hogy a Microsoft Edge
+        böngészőazonosító sztringjében egyedi lexikális elem található, a többi
+        webböngészőtől való megkülönböztetése érdekében.WidevinePlayReadyNagyvállalati módú webhelyek listája frissítveVerziószámAzt javasoljuk, hogy https:// kezdetű címet használjon a webhelylista helyéhez, mert az nagyobb biztonságot nyújt, mint az egyéb lehetőségek, például a file:// és a http://.Frissítés kényszerítéseHiba: Nem sikerült menteni a létrehozott EMIE-webhelylistát.Hiba: Nem sikerült letölteni az EMIE Sitelist listát.A kérés megszakítva.Sikertelen volt a kérelem. Állapot: $1.Nem sikerült hozzáférési jogkivonatot beszerezni, mert nem volt elérhető elsődleges fiók.Nem sikerült hozzáférési jogkivonatot beszerezni. További részletek: a $1.Ismeretlen hiba a kérésben.Hiba: Nem sikerült elemezni az EMIE SiteList listát.Hiba: Nincs URL-cím, vagy érvénytelen az EMIE Sitelist URL-címe.Webhelyek megjelenítése a Microsoft-webhelyek listájáb

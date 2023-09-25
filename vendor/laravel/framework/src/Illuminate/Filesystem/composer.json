@@ -1,0 +1,9 @@
+rofil batera aldatu nahi duzu?Badago lehendik ere Microsoft Edge profil bat kontu honekin$1 erabiltzaileak dagoeneko hasi du saioa Microsoft Edge profil honetan. Bereiz araka dezazuen, Microsoft Edge-k profil bat sor dezake zuretzat.$1 erabiltzaileak dagoeneko izena eman du Microsoft Edge profil honetan. Honek Microsoft Edge profil berri bat sortuko du $2 helbidearentzatHonek Microsoft Edge profil berri bat sortuko du $1 helbidearentzatPertsonalizatu Microsoft Edge-ko profil berriaPertsonalizatu Edge profilaZure ordenagailuak kaltegarria izan daitekeen softwarea du. Microsoft Edge-k software hori kendu eta ezarpenak lehenera ditzake.Zure kamera eta mikrofonoa erabiltzen ari da Microsoft Edge.Zure mikrofonoa erabiltzen ari da Microsoft Edge.Zure kamera erabiltzen ari da Microsoft Edge.{NUM_DEVICES, plural,
+            =0 {Microsoft Edge-ren luzapen bat HID gailuetara sartzen ari zen}
+            =1 {Microsoft Edge-ren luzapen 1 HID gailu batera sartzen ari da}
+            one {Microsoft Edge-ren luzapen bat # HID gailuetara sartzen ari da}
+            other {Microsoft Edge-ren luzapen bat # HID gailuetara sartzen ari da}}{NUM_DEVICES, plural,
+            =0 {Microsoft Edge-ren luzapenak HID gailuetara sartzen ari ziren}
+            =1 {Microsoft Edge-ren luzapenak HID gailuetara sartzen ari dira}
+            one {Microsoft Edge-ren luzapenak # HID gailuetara sartzen ari dira}
+            other {Microsoft Edge-ren luzapenak # HID gailuetara sartzen ari dira}}Luzapen honek aldatu egin du Microsoft Edge irekitzen duzunean agertzen den orria."$1" luzapenak aldatu egin du Microsoft Edge irekitzen duzunean agertzen den orria. Microsoft Edge irekitzen duzunean erakusten den orria ere kontrolatzen da.  Microsoft Edge irekitzen duzunean edo Etxeko botoia sakatzen duzunean, erakusten den orria zein den ere kontrolatzen du.  Microsoft Edge edo

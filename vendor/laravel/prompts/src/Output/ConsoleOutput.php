@@ -1,0 +1,13 @@
+switch-xl-touch-hit-y:var(
+--spectrum-global-dimension-static-size-100
+);--spectrum-tabs-s-quiet-emphasized-text-padding-bottom:var(
+--spectrum-global-dimension-static-size-65
+);--spectrum-tabs-s-quiet-emphasized-focus-ring-border-radius:5px;--spectrum-tabs-s-quiet-emphasized-margin-left:-7px;--spectrum-tabs-s-quiet-emphasized-margin-right:-7px;--spectrum-tabs-s-quiet-text-padding-bottom:var(
+--spectrum-global-dimension-static-size-65
+);--spectrum-tabs-s-quiet-focus-ring-border-radius:5px;--spectrum-tabs-s-quiet-margin-left:-7px;--spectrum-tabs-s-quiet-margin-right:-7px;--spectrum-tabs-s-emphasized-text-padding-bottom:var(
+--spectrum-global-dimension-static-size-65
+);--spectrum-tabs-s-emphasized-focus-ring-border-radius:5px;--spectrum-tabs-s-emphasized-margin-left:-7px;--spectrum-tabs-s-emphasized-margin-right:-7px;--spectrum-tabs-s-text-padding-bottom:var(
+--spectrum-global-dimension-static-size-65
+);--spectrum-tabs-s-focus-ring-border-radius:5px;--spectrum-tabs-s-margin-left:-7px;--spectrum-tabs-s-margin-right:-7px;--spectrum-tabs-s-vertical-quiet-emphasized-text-padding-bottom:var(
+--spectrum-global-dimension-static-size-65
+);--spectrum-tabs-s-vertical-quiet-empha

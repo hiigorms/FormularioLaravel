@@ -1,0 +1,10 @@
+net Explorer.Tirotiro pai rawa i roto o Microsoft Edge ina kawemai koe i ō makau, te hītori, ngā kupuhipa, ngā tautuhinga, me ētahi atu mea i Pūtirotiro Tencent QQ.Kia pai te tirotiro i Microsoft Edge ina kawemai koe i ō makau, ō tautuhinga, me ētahi atu mea mai i te Pūtirotiro Haumaru 360.Kia tōtika te tirotiro i Microsoft Edge ina kawemai koe i ō makau, ō tautuhinga, me ētahi atu mea mai i te Pūtirotiro Extreme 360.Kia tōtika te pūtirotiro i Microsoft Edge ina kawemai koe i ō makau, ō tautuhinga, me ētahi atu mea mai i te Pūtirotiro ExtremeX 360 (moka-64).Whiwhia ō kupuhipa me ētahi atu mea ki ō pūrere katoaWhakakāia te tukutahi hei pūrua ō raraunga me te uru ki ō kupuhipa, ō makau, ō ripa tuwhera, me ētahi mea ki ō pūrere katoa.Ngā pae makau, kei ō matimati i ngā wā katoaMe pine ki te paetaumahi āianei ngā paetukutuku e haere auau koe kia māmā te uru atu.Me tīmata te pineWhakamahia ngā tautuhinga tūtohu a MicrosoftMā ngā āhuahira rō-tonu pēnei i te ārai Aroturuki me ngā mana tūmataitinga, he mea hoahoa te Microsoft Edge kia whakahaere koe i ō raraunga me te pare i tō tūmataitinga i te ipurangi.Pūtirotiro taunoa:Pūpānui PDF taunoa:Pūkaha rapu taunoa:Kaua e whakahōu i ō tautuhinga pūtirotiroMicrosoft BingHoatu tautuhingaAngitū!Kua oti ngā tautuhinga tūtohu a Microsoft te hoatuKua tautuhi kētiaHoatu ana ngā tautuhinga tūtohu…E hoatu ana mātou i ngā tautuhinga Microsoft kua tūtohu māuKa āhua roa ake tonuKa ngana tonu mātou ki te hoatu ēnei tautuhinga ki papamuri. Ka taea tēnei kōrero te kati me te hoki ki tō wātū tirotiro.RereatuĀ-aratauTohukaiakoKarere mai i Microsoft Edge<p class="nurturing-paragraph">
+    Tukua a Microsoft kia whakamahia tō ngohe tirotiro tae atu ki te hītori, ngā makau, whakamahinga me ērā atu raraunga tirotiro hei whakawhaiaro i a Microsoft Edge me ngā ratonga Microsoft pēnei:
+    </p>
+
+    <p class="nurturing-paragraph">
+    <b>Rapu:</b> Ngā hua e hāngai ake ki a koe
+    </p>
+
+    <p class="nurturing-paragraph">
+  

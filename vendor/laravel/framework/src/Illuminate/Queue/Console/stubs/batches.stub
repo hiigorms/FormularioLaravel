@@ -1,0 +1,5 @@
+   other {Færa flipa í nýjan &glugga}}Nýr &gluggiFylgjast með svæðiHætta að fylgjast með svæðiSmelltu hér til að leita í flipunum þínumFlipa lokað$1 flipi fannst$1 flipar fundustFann $1 flipa fyrir „$2“Opna flipaFlipi sem hefur verið lokaður nýlegaFlipahópur sem hefur nýlega verið lokaðHljóð & myndNýlega lokað$1 flipi$1 fliparVíxla yfir í nýlega lokuð atriðiStækka nýlega lokaðDraga saman nýlega lokað{NUM_PAGES, plural,
+            =0 {$1}
+            =1 {$1 og 1 flipi í viðbót}
+            one {$1 og # flipar til viðbótar}
+            other {$1 og # flipar til viðbótar}}Titill flipahópsNýr flipi í hópiSundra hópiLoka hópEyða hópiFæra hóp í nýjan gluggaOpna hóp í nýjum gluggaGefa þessum hóp heitiOpna vafraglugga$1 Beiðni um að deila skjánumViltu að $1 samnýti skjáinn þinn?Viltu að $1 samnýti skjáinn þinn og hljóðúttakið þitt?$1  deilir skjánum þínum.

@@ -1,0 +1,283 @@
+m-global-dimension-size-200)
+)}:host([dir=rtl]) .content{padding-left:var(
+--spectrum-toast-neutral-content-padding-right,var(--spectrum-global-dimension-size-200)
+)}:host([dir=ltr]) .content{padding-left:0}:host([dir=rtl]) .content{padding-right:0}:host([dir=ltr]) .content{text-align:left}:host([dir=rtl]) .content{text-align:right}.content{box-sizing:border-box;display:inline-block;flex:1 1 auto;font-size:var(
+--spectrum-toast-info-text-size,var(--spectrum-global-dimension-font-size-100)
+);font-weight:var(
+--spectrum-toast-info-text-font-weight,var(--spectrum-alias-body-text-font-weight)
+);line-height:var(
+--spectrum-toast-info-text-line-height,var(--spectrum-alias-component-text-line-height)
+);padding-bottom:var(--spectrum-toast-content-padding-bottom);padding-top:var(
+--spectrum-toast-neutral-content-padding-top,var(--spectrum-global-dimension-size-65)
+)}.buttons{align-items:flex-start;display:flex;flex:0 0 auto}:host([dir=ltr]) .buttons .spectrum-ClearButton+.spectrum-ClearButton,:host([dir=ltr]) .buttons .spectrum-ClearButton+::slotted([slot=action]),:host([dir=ltr]) .buttons slot[name=action]+.spectrum-ClearButton,:host([dir=ltr]) .buttons slot[name=action]+::slotted([slot=action]){margin-left:var(
+--spectrum-toast-neutral-button-gap-x,var(--spectrum-global-dimension-size-100)
+)}:host([dir=rtl]) .buttons .spectrum-ClearButton+.spectrum-ClearButton,:host([dir=rtl]) .buttons .spectrum-ClearButton+::slotted([slot=action]),:host([dir=rtl]) .buttons slot[name=action]+.spectrum-ClearButton,:host([dir=rtl]) .buttons slot[name=action]+::slotted([slot=action]){margin-right:var(
+--spectrum-toast-neutral-button-gap-x,var(--spectrum-global-dimension-size-100)
+)}.body{align-self:center;flex:1 1 auto}:host([dir=ltr]) .body ::slotted([slot=action]){float:right}:host([dir=rtl]) .body ::slotted([slot=action]){float:left}:host([dir=ltr]) .body ::slotted([slot=action]){margin-right:var(
+--spectrum-toast-button-margin-right
+)}:host([dir=rtl]) .body ::slotted([slot=action]){margin-left:var(
+--spectrum-toast-button-margin-right
+)}:host([dir=ltr]) .body+.buttons{padding-left:var(
+--spectrum-toast-neutral-padding-right,var(--spectrum-global-dimension-size-100)
+)}:host([dir=rtl]) .body+.buttons{padding-right:var(
+--spectrum-toast-neutral-padding-right,var(--spectrum-global-dimension-size-100)
+)}:host([dir=ltr]) .body+.buttons{border-left-width:1px}:host([dir=rtl]) .body+.buttons{border-right-width:1px}:host([dir=ltr]) .body+.buttons{border-left-style:solid}:host([dir=rtl]) .body+.buttons{border-right-style:solid}:host{background-color:var(
+--spectrum-toast-neutral-background-color,var(--spectrum-semantic-neutral-background-color-default)
+);color:var(
+--spectrum-toast-neutral-background-color,var(--spectrum-semantic-neutral-background-color-default)
+)}.content{color:var(
+--spectrum-toast-neutral-text-color,var(--spectrum-global-color-static-white)
+)}.type{color:#fff}:host([dir=ltr]) .buttons{border-left-color:hsla(0,0%,100%,.2)}:host([dir=rtl]) .buttons{border-right-color:hsla(0,0%,100%,.2)}:host([variant=error]),:host([variant=negative]){background-color:var(
+--spectrum-toast-negative-background-color,var(--spectrum-semantic-negative-background-color)
+);color:var(
+--spectrum-toast-negative-background-color,var(--spectrum-semantic-negative-background-color)
+)}:host([variant=error]) .closeButton.focus-visible:not(:active),:host([variant=negative]) .closeButton.focus-visible:not(:active){color:var(
+--spectrum-toast-negative-background-color,var(--spectrum-semantic-negative-background-color)
+)}:host([variant=error]) .closeButton:focus-visible:not(:active),:host([variant=negative]) .closeButton:focus-visible:not(:active){color:var(
+--spectrum-toast-negative-background-color,var(--spectrum-semantic-negative-background-color)
+)}:host([variant=info]){background-color:var(
+--spectrum-toast-info-background-color,var(--spectrum-semantic-informative-background-color)
+);color:var(
+--spectrum-toast-info-background-color,var(--spectrum-semantic-informative-background-color)
+)}:host([variant=info]) .closeButton.focus-visible:not(:active){color:var(
+--spectrum-toast-info-background-color,var(--spectrum-semantic-informative-background-color)
+)}:host([variant=info]) .closeButton:focus-visible:not(:active){color:var(
+--spectrum-toast-info-background-color,var(--spectrum-semantic-informative-background-color)
+)}:host([variant=positive]),:host([variant=success]){background-color:var(
+--spectrum-toast-positive-background-color,var(--spectrum-semantic-positive-background-color)
+);color:var(
+--spectrum-toast-positive-background-color,var(--spectrum-semantic-positive-background-color)
+)}:host([variant=positive]) .closeButton.focus-visible:not(:active),:host([variant=success]) .closeButton.focus-visible:not(:active){color:var(
+--spectrum-toast-positive-background-color,var(--spectrum-semantic-positive-background-color)
+)}:host([variant=positive]) .closeButton:focus-visible:not(:active),:host([variant=success]) .closeButton:focus-visible:not(:active){color:var(
+--spectrum-toast-positive-background-color,var(--spectrum-semantic-positive-background-color)
+)}@media (forced-colors:active){:host{border:1px solid transparent}}.content{line-height:1.5}:host(:not([open])){display:none}
+`},tHmz:(O,M,H)=>{"use strict";H.r(M),H.d(M,{openOverlay:()=>r});const r=async(O,M,W,j)=>{const{Overlay:N}=await H.e(781).then(H.bind(H,"YGaC"));return N.open(O,M,W,j)}},tXkP:(O,M,H)=>{"use strict";H.r(M);var W=H("vMS7");customElements.define("sp-tooltip",W.Tooltip)},vMS7:(O,M,H)=>{"use strict";H.r(M),H.d(M,{Tooltip:()=>l,TooltipProxy:()=>n});var W=H("TToO"),j=H("D0Jw"),N=H("m8uW"),J=H("tHmz"),K=H("0Xw0");class n extends HTMLElement{disconnectedCallback(){this.dispatchEvent(new Event("disconnected"))}}customElements.define("tooltip-proxy",n);class l extends j.SpectrumElement{constructor(){super(),this._tooltipId="sp-tooltip-describedby-helper-"+l.instanceCount++,this.selfManaged=!1,this.offset=6,this.hadTooltipId=!1,this.open=!1,this.placement="top",this._variant="",this.abortOverlay=()=>{},this.openOverlay=()=>{const O=this.parentElement,M=new Promise((O=>{this.abortOverlay=O}));this.closeOverlayCallback=(0,J.openOverlay)(O,"hover",this,{abortPromise:M,offset:this.offset,placement:this.placement})},this.closeOverlay=async()=>{this.abortOverlay&&this.abortOverlay(!0),this.closeOverlayCallback&&((await this.closeOverlayCallback)(),delete this.closeOverlayCallback)},this.addEventListener("sp-overlay-query",this.onOverlayQuery)}static get styles(){return[K.default]}get variant(){return this._variant}set variant(O){if(O!==this.variant){if(["info","positive","negative"].includes(O))return this.setAttribute("variant",O),void(this._variant=O);this.removeAttribute("variant"),this._variant=""}}onOverlayQuery(O){O.target&&O.target===this&&(O.detail.overlayContentTipElement=this.tipElement)}generateProxy(){this._proxy||(this._proxy=document.createElement("tooltip-proxy"),this._proxy.id=this._tooltipId,this._proxy.hidden=!0,this._proxy.slot="hidden-tooltip-content",this._proxy.setAttribute("role","tooltip"),this._proxy.addEventListener("disconnected",this.closeOverlay))}overlayWillOpenCallback({trigger:O}){this.setAttribute("aria-hidden","true"),this.generateProxy(),this._proxy.textContent=this.textContent;const M=O.getAttribute("aria-describedby")||"";this.hadTooltipId=M.search(this._tooltipId)>-1,this.insertAdjacentElement("beforebegin",this._proxy),this.hadTooltipId||(M?O.setAttribute("aria-describedby",`${M} ${this._tooltipId}`):O.setAttribute("aria-describedby",`${this._tooltipId}`))}overlayOpenCancelledCallback({trigger:O}){this.overlayCloseCallback({trigger:O})}overlayCloseCallback({trigger:O}){let M=(O.getAttribute("aria-describedby")||"").split(/\s+/);this.hadTooltipId||(M=M.filter((O=>O!==this._tooltipId))),M.length?O.setAttribute("aria-describedby",M.join(" ")):O.removeAttribute("aria-describedby"),this.removeAttribute("aria-hidden"),this.removeProxy()}removeProxy(){this._proxy.remove()}manageTooltip(){const O=this.parentElement;this.selfManaged?(this.slot&&(this.previousSlot=this.slot),this.slot="self-managed-tooltip",O.addEventListener("pointerenter",this.openOverlay),O.addEventListener("focusin",this.openOverlay),O.addEventListener("pointerleave",this.closeOverlay),O.addEventListener("focusout",this.closeOverlay)):(this.previousSlot?this.slot=this.previousSlot:"self-managed-tooltip"===this.slot&&this.removeAttribute("slot"),O.removeEventListener("pointerenter",this.openOverlay),O.removeEventListener("focusin",this.openOverlay),O.removeEventListener("pointerleave",this.closeOverlay),O.removeEventListener("focusout",this.closeOverlay))}render(){return j.html`
+            <slot name="icon"></slot>
+            <span id="label"><slot></slot></span>
+            <span id="tip"></span>
+        `}async update(O){O.has("open")&&this.selfManaged&&(this.open?this.openOverlay():this.closeOverlay()),this.generateProxy(),super.update(O)}updated(O){super.updated(O),O.has("selfManaged")&&this.manageTooltip()}}l.instanceCount=0,(0,W.__decorate)([(0,N.property)({type:Boolean,attribute:"self-managed"})],l.prototype,"selfManaged",void 0),(0,W.__decorate)([(0,N.property)({type:Number,reflect:!0})],l.prototype,"offset",void 0),(0,W.__decorate)([(0,N.property)({type:Boolean,reflect:!0})],l.prototype,"open",void 0),(0,W.__decorate)([(0,N.property)({reflect:!0})],l.prototype,"placement",void 0),(0,W.__decorate)([(0,N.query)("#tip")],l.prototype,"tipElement",void 0),(0,W.__decorate)([(0,N.property)({type:String})],l.prototype,"variant",null)},"0Xw0":(O,M,H)=>{"use strict";H.r(M),H.d(M,{default:()=>W});const W=H("D0Jw").css`
+:host{--spectrum-overlay-animation-distance:var(
+--spectrum-picker-m-texticon-popover-offset-y,var(--spectrum-global-dimension-size-75)
+);opacity:0;pointer-events:none;transition:transform var(--spectrum-global-animation-duration-100,.13s) ease-in-out,opacity var(--spectrum-global-animation-duration-100,.13s) ease-in-out,visibility 0ms linear var(--spectrum-global-animation-duration-100,.13s);visibility:hidden}:host([open]){opacity:1;pointer-events:auto;transition-delay:0ms;visibility:visible}:host([placement*=bottom][open]){transform:translateY(var(--spectrum-overlay-animation-distance))}:host([placement*=top][open]){transform:translateY(calc(var(--spectrum-overlay-animation-distance)*-1))}:host([placement*=right][open]){transform:translateX(var(--spectrum-overlay-animation-distance))}:host([placement*=left][open]){transform:translateX(calc(var(--spectrum-overlay-animation-distance)*-1))}:host{--spectrum-tooltip-neutral-target-offset:3px;--spectrum-tooltip-neutral-tip-width:var(
+--spectrum-tooltip-neutral-tip-height,var(--spectrum-global-dimension-size-50)
+)}:host{-webkit-font-smoothing:antialiased;align-items:center;border-radius:var(
+--spectrum-tooltip-neutral-border-radius,var(--spectrum-alias-component-border-radius)
+);box-sizing:border-box;display:inline-flex;flex-direction:row;font-size:var(
+--spectrum-tooltip-neutral-text-size,var(--spectrum-global-dimension-font-size-75)
+);font-weight:var(
+--spectrum-tooltip-neutral-text-font-weight,var(--spectrum-alias-body-text-font-weight)
+);left:0;line-height:var(
+--spectrum-tooltip-neutral-text-line-height,var(--spectrum-alias-component-text-line-height)
+);max-width:var(
+--spectrum-tooltip-neutral-max-width,var(--spectrum-global-dimension-size-2000)
+);min-height:var(
+--spectrum-tooltip-neutral-min-height,var(--spectrum-global-dimension-size-300)
+);padding:0 var(
+--spectrum-tooltip-neutral-padding-x,var(--spectrum-global-dimension-size-85)
+);position:relative;top:0;vertical-align:top;width:auto;word-break:break-word}:host{cursor:default;-webkit-user-select:none;user-select:none}p{margin:0}#tip{border-bottom:var(
+--spectrum-tooltip-neutral-tip-width,var(--spectrum-global-dimension-size-100)
+) solid transparent;border-left:var(
+--spectrum-tooltip-neutral-tip-width,var(--spectrum-global-dimension-size-100)
+) solid transparent;border-right:var(
+--spectrum-tooltip-neutral-tip-width,var(--spectrum-global-dimension-size-100)
+) solid transparent;border-top-style:solid;border-top-width:var(
+--spectrum-tooltip-neutral-tip-width,var(--spectrum-global-dimension-size-100)
+);height:0;position:absolute;width:0}:host([placement*=left]) #tip,:host([placement*=right]) #tip{margin-top:calc(var(
+--spect
+elif [ "$1" == "npm" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" npm "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Proxy NPX commands to the "npx" binary on the application container...
+elif [ "$1" == "npx" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" npx "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Proxy PNPM commands to the "pnpm" binary on the application container...
+elif [ "$1" == "pnpm" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" pnpm "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Proxy PNPX commands to the "pnpx" binary on the application container...
+elif [ "$1" == "pnpx" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" pnpx "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Proxy YARN commands to the "yarn" binary on the application container...
+elif [ "$1" == "yarn" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" yarn "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Proxy Bun commands to the "bun" binary on the application container...
+elif [ "$1" == "bun" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" bun "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Proxy Bun X commands to the "bunx" binary on the application container...
+elif [ "$1" == "bunx" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" bunx "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Initiate a MySQL CLI terminal session within the "mysql" container...
+elif [ "$1" == "mysql" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=(mysql bash -c)
+        ARGS+=("MYSQL_PWD=\${MYSQL_PASSWORD} mysql -u \${MYSQL_USER} \${MYSQL_DATABASE}")
+    else
+        sail_is_not_running
+    fi
+
+# Initiate a MySQL CLI terminal session within the "mariadb" container...
+elif [ "$1" == "mariadb" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=(mariadb bash -c)
+        ARGS+=("MYSQL_PWD=\${MYSQL_PASSWORD} mysql -u \${MYSQL_USER} \${MYSQL_DATABASE}")
+    else
+        sail_is_not_running
+    fi
+
+# Initiate a PostgreSQL CLI terminal session within the "pgsql" container...
+elif [ "$1" == "psql" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=(pgsql bash -c)
+        ARGS+=("PGPASSWORD=\${PGPASSWORD} psql -U \${POSTGRES_USER} \${POSTGRES_DB}")
+    else
+        sail_is_not_running
+    fi
+
+# Initiate a Bash shell within the application container...
+elif [ "$1" == "shell" ] || [ "$1" == "bash" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec -u sail)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" bash "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Initiate a root user Bash shell within the application container...
+elif [ "$1" == "root-shell" ] || [ "$1" == "root-bash" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=("$APP_SERVICE" bash "$@")
+    else
+        sail_is_not_running
+    fi
+
+# Initiate a Redis CLI terminal session within the "redis" container...
+elif [ "$1" == "redis" ] ; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        ARGS+=(exec)
+        [ ! -t 0 ] && ARGS+=(-T)
+        ARGS+=(redis redis-cli)
+    else
+        sail_is_not_running
+    fi
+
+# Share the site...
+elif [ "$1" == "share" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        docker run --init --rm -p "$SAIL_SHARE_DASHBOARD":4040 -t beyondcodegmbh/expose-server:latest share http://host.docker.internal:"$APP_PORT" \
+            --server-host="$SAIL_SHARE_SERVER_HOST" \
+            --server-port="$SAIL_SHARE_SERVER_PORT" \
+            --auth="$SAIL_SHARE_TOKEN" \
+            --server="$SAIL_SHARE_SERVER" \
+            --subdomain="$SAIL_SHARE_SUBDOMAIN" \
+            --domain="$SAIL_SHARE_DOMAIN" \
+            "$@"
+
+        exit
+    else
+        sail_is_not_running
+    fi
+
+# Open the site...
+elif [ "$1" == "open" ]; then
+    shift 1
+
+    if [ "$EXEC" == "yes" ]; then
+        open $APP_URL
+
+        exit
+    else
+        sail_is_not_running
+    fi
+
+# Pass unknown commands to the "docker-compose" binary...
+else
+    ARGS+=("$@")
+fi
+
+# Run Docker Compose with the defined arguments...
+"${DOCKER_COMPOSE[@]}" "${ARGS[@]}"
